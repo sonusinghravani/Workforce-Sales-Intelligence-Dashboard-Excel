@@ -47,7 +47,9 @@ The dashboard includes the following key visualizations:
 2.  **Training:** Organize knowledge-sharing sessions where top performers (EMP005) mentor those with lower sales volumes.
 3.  **Q3 Strategy:** Implement promotional offers in Q3 to counteract the seasonal sales drop.
 
-   
+ ## Dashboard Link
+
+ https://github.com/sonusinghravani/Workforce-Sales-Intelligence-Dashboard-           Excel/blob/main/Dashboard%20Woekforce%20and%20sale.png
 
 ---
 *Created by Sonu Kumar | Data Analyst Aspirant*
