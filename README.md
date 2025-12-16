@@ -49,7 +49,7 @@ The dashboard includes the following key visualizations:
 
  ## Dashboard Link
 
- https://github.com/sonusinghravani/Workforce-Sales-Intelligence-Dashboard-           Excel/blob/main/Dashboard%20Woekforce%20and%20sale.png
+ https://github.com/sonusinghravani/Workforce-Sales-Intelligence-Dashboard-Excel/blob/main/Dashboard%20Woekforce%20and%20sale.png
 
 ---
 *Created by Sonu Kumar | Data Analyst Aspirant*
